@@ -64,7 +64,7 @@ https://docs.mongodb.com/manual/reference/geojson/#geojson-point
 https://docs.mongodb.com/manual/tutorial/geospatial-tutorial/
 ```
 
-```json
+```javascript
 {
   localizacion:
   	{
