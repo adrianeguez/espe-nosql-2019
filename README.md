@@ -86,5 +86,15 @@ https://docs.mongodb.com/manual/tutorial/geospatial-tutorial/
 http://mongodb.github.io/node-mongodb-native/3.1/tutorials/crud/
 ```
 
+## Manticore - Labs
+
+Manticore Labs
+```
+https://manticore-labs.com/
+```
+Ideas
+```
+https://ideas.manticore-labs.com/
+```
 
 
