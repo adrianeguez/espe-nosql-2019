@@ -46,3 +46,29 @@ https://www.jetbrains.com/student/
 https://docs.mongodb.com/manual/reference/bson-types/
 ```
 
+## Consultas Geoespaciales
+
+```
+https://docs.mongodb.com/manual/geospatial-queries/
+```
+
+## Objetos GeoJSON
+
+```
+https://docs.mongodb.com/manual/reference/geojson/#geojson-point
+```
+
+## Tutorial Restaurantes
+
+```
+https://docs.mongodb.com/manual/tutorial/geospatial-tutorial/
+```
+
+
+
+
+
+
+
+
+
