@@ -64,6 +64,22 @@ https://docs.mongodb.com/manual/reference/geojson/#geojson-point
 https://docs.mongodb.com/manual/tutorial/geospatial-tutorial/
 ```
 
+```json
+{
+  localizacion:
+  	{
+  	  $near:
+  	  	{
+  	  	$geometry: {
+  	  	    type: 'Point', 
+  	  	    coordinates: [-0.313013, -78.445475]
+  	  	    },
+		$minDistance: 1,
+        $maxDistance: 600,
+     },
+  },
+}
+```
 
 
 
